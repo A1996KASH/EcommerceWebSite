@@ -1,0 +1,10 @@
+[26-Jul-2017 11:22:58 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/zeblok/task 2/index.php on line 7
+[26-Jul-2017 11:22:58 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bookbidi/public_html/zeblok/task 2/index.php on line 9
+[26-Jul-2017 11:22:58 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bookbidi/public_html/zeblok/task 2/index.php on line 11
+[26-Jul-2017 11:22:58 Etc/GMT] PHP Notice:  Undefined variable: result_array in /home/bookbidi/public_html/zeblok/task 2/index.php on line 21
+[26-Jul-2017 11:22:58 Etc/GMT] PHP Notice:  Undefined variable: result_array in /home/bookbidi/public_html/zeblok/task 2/index.php on line 25
+[26-Jul-2017 11:24:04 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/zeblok/task 2/index.php on line 7
+[26-Jul-2017 11:24:04 Etc/GMT] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/bookbidi/public_html/zeblok/task 2/index.php on line 9
+[26-Jul-2017 11:24:04 Etc/GMT] PHP Notice:  Trying to get property of non-object in /home/bookbidi/public_html/zeblok/task 2/index.php on line 11
+[26-Jul-2017 11:24:04 Etc/GMT] PHP Notice:  Undefined variable: result_array in /home/bookbidi/public_html/zeblok/task 2/index.php on line 21
+[26-Jul-2017 11:24:04 Etc/GMT] PHP Notice:  Undefined variable: result_array in /home/bookbidi/public_html/zeblok/task 2/index.php on line 25

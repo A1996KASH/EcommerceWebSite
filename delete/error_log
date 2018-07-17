@@ -1,0 +1,18 @@
+[16-Oct-2015 04:23:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/bookbidi/public_html/delete/delete.php:1) in /home/bookbidi/public_html/include/session.php on line 2
+[16-Oct-2015 04:23:22 America/Chicago] PHP Warning:  unlink(../book_images/3.jpg): No such file or directory in /home/bookbidi/public_html/delete/delete.php on line 17
+[16-Oct-2015 04:23:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bookbidi/public_html/delete/delete.php:1) in /home/bookbidi/public_html/delete/delete.php on line 19
+[16-Oct-2015 04:30:40 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/bookbidi/public_html/delete/delete.php on line 14
+[16-Oct-2015 04:30:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bookbidi/public_html/delete/delete.php:9) in /home/bookbidi/public_html/delete/delete.php on line 24
+[16-Oct-2015 04:31:38 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, string given in /home/bookbidi/public_html/delete/delete.php on line 13
+[16-Oct-2015 04:31:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bookbidi/public_html/delete/delete.php:13) in /home/bookbidi/public_html/delete/delete.php on line 23
+[16-Oct-2015 04:58:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/bookbidi/public_html/delete/delete.php:11) in /home/bookbidi/public_html/delete/delete.php on line 31
+[16-Oct-2015 05:19:39 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[19-Oct-2015 22:34:22 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[16-Mar-2016 02:39:03 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[16-Mar-2016 02:39:08 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[22-Sep-2016 09:18:56 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[14-Apr-2017 05:36:42 America/Chicago] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[24-Jul-2017 17:31:59 Etc/GMT] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[25-Jul-2017 16:26:42 Etc/GMT] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[25-Jul-2017 17:11:04 Etc/GMT] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/delete/delete.php on line 20
+[30-Jul-2017 19:50:57 Etc/GMT] PHP Warning:  unlink(../book_images/): Is a directory in /home/bookbidi/public_html/dibsofficial.in/delete/delete.php on line 20

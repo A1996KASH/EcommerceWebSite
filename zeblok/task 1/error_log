@@ -1,0 +1,4 @@
+[26-Jul-2017 12:04:57 Etc/GMT] PHP Notice:  Undefined index: welcomestring in /home/bookbidi/public_html/zeblok/task 1/page2.php on line 16
+[26-Jul-2017 12:04:57 Etc/GMT] PHP Notice:  Undefined index: set in /home/bookbidi/public_html/zeblok/task 1/page2.php on line 17
+[26-Jul-2017 12:04:57 Etc/GMT] PHP Notice:  Undefined index: hello_cookies in /home/bookbidi/public_html/zeblok/task 1/page2.php on line 23
+[26-Jul-2017 12:19:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bookbidi/public_html/zeblok/task 1/page2.php on line 30

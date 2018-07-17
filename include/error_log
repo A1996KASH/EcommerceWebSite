@@ -1,0 +1,48 @@
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(): Failed opening 'include/wlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  include(): Failed opening 'include/lwlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/include/header.php on line 329
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bookbidi/public_html/include/header.php on line 329
+[01-Nov-2015 00:24:58 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bookbidi/public_html/include/header.php on line 332
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(): Failed opening 'include/wlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 269
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  include(): Failed opening 'include/lwlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 290
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/include/header.php on line 329
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bookbidi/public_html/include/header.php on line 329
+[01-Nov-2015 00:25:28 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bookbidi/public_html/include/header.php on line 332
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 277
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 277
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(): Failed opening 'include/wlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 277
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 298
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 298
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  include(): Failed opening 'include/lwlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 298
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/include/header.php on line 337
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bookbidi/public_html/include/header.php on line 337
+[03-Nov-2015 01:58:24 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bookbidi/public_html/include/header.php on line 340
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 294
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 294
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(): Failed opening 'include/wlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 294
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 315
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/header.php on line 315
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(): Failed opening 'include/lwlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/header.php on line 315
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/include/header.php on line 354
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bookbidi/public_html/include/header.php on line 354
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bookbidi/public_html/include/header.php on line 357
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/headerr.php on line 335
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/wlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/headerr.php on line 335
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(): Failed opening 'include/wlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/headerr.php on line 335
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/headerr.php on line 356
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(include/lwlogin.php): failed to open stream: No such file or directory in /home/bookbidi/public_html/include/headerr.php on line 356
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  include(): Failed opening 'include/lwlogin.php' for inclusion (include_path='.:/opt/php54/lib/php') in /home/bookbidi/public_html/include/headerr.php on line 356
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/include/headerr.php on line 396
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_query(): A link to the server could not be established in /home/bookbidi/public_html/include/headerr.php on line 396
+[23-Jun-2016 22:22:26 America/Chicago] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/bookbidi/public_html/include/headerr.php on line 399
+[23-Jun-2016 22:22:26 America/Chicago] PHP Fatal error:  Call to undefined function confirm_logged_in() in /home/bookbidi/public_html/include/iflogin.php on line 2
+[23-Jun-2016 22:22:26 America/Chicago] PHP Fatal error:  Call to undefined function confirm_logged_in() in /home/bookbidi/public_html/include/liflogin.php on line 2
+[23-Jun-2016 22:22:26 America/Chicago] PHP Fatal error:  Call to a member function allProductsinfo() on a non-object in /home/bookbidi/public_html/include/infopage.php on line 3

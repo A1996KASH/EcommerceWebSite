@@ -1,0 +1,17 @@
+body{
+    font-family: 'Baumans', cursive,sans-serif;
+}
+.header{
+background-color:   #403f99;
+}
+.dashbordlayout{
+    text-align: right;
+    color:white;
+}
+.maincontainer{
+    background-color: #e5e5e5;
+    padding-left: 0px;
+}
+.col4class{
+    padding-left: 0px;
+}

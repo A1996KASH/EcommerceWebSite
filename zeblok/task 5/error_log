@@ -1,0 +1,2 @@
+[26-Jul-2017 11:41:10 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/bookbidi/public_html/zeblok/task 5/keygenerate.php on line 6
+[26-Jul-2017 11:42:05 Etc/GMT] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'bookbidi_akash'@'localhost' (using password: NO) in /home/bookbidi/public_html/zeblok/task 5/keygenerate.php on line 6
